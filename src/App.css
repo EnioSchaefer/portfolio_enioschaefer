@@ -102,4 +102,10 @@ html {
   .App {
     font-size: 70%;
   }
+
+  .header-text {
+    text-align: center;
+    font-size: 125%;
+    margin: 2.5%;
+  }
 }
